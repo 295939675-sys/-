@@ -1,0 +1,31 @@
+{
+  "kind": "effect-dictionary-release",
+  "schemaVersion": 1,
+  "version": "0.4.8",
+  "packages": [
+    {
+      "asset": "dictionary-0.4.5-to-0.4.8.zip",
+      "fromVersions": [
+        "0.4.5"
+      ],
+      "sha256": "e6604e678d644ec6ee20ad40e0277adb8b73301de63996c52ed2df9ae502fb0b",
+      "size": 82515
+    },
+    {
+      "asset": "dictionary-0.4.6-to-0.4.8.zip",
+      "fromVersions": [
+        "0.4.6"
+      ],
+      "sha256": "6b645a04b39a1f0d86647e6742ec695a9237902401abb815ac3f1d8d311e3744",
+      "size": 69046
+    },
+    {
+      "asset": "dictionary-0.4.7-to-0.4.8.zip",
+      "fromVersions": [
+        "0.4.7"
+      ],
+      "sha256": "a351852dd40c13d851796932284ab9850d388f4682387bcd21249ca72a67636a",
+      "size": 28325
+    }
+  ]
+}
